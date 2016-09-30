@@ -1,0 +1,71 @@
+
+#mobileHide a{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+ 	 margin-top: -50px;
+  	margin-left: -170px;
+	text-align:center;
+	color:white;
+	font-size: 3em;
+	text-decoration: none;
+	border: 5px solid cyan;
+}
+#mobileHide	a:hover{
+	border: 5px solid white;
+	color:cyan;
+	}
+#intro,#edu,#prj,#skl,#int{
+display: none;
+}
+#name  {
+display: none;
+}
+
+#profile{
+	display: none;
+
+}
+#name{
+display: none;
+}
+body{
+	background:#202020; 
+	font-family: fantasy;
+
+}
+.timeline{
+display: none;
+	
+}
+	p a{
+display: none;
+	}
+p{
+	display: none;
+}	
+#icn{
+display: none;
+}
+#events{
+display: none;
+}
+#evt:hover{
+display: none;	
+}
+#evt{
+display: none;
+}
+#evts,#eventsm{
+	display: none;
+}
+h1{
+display: none;
+}
+
+#q{
+	display: none; 	
+}
+#proPic{
+	display: none;
+}
